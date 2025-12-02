@@ -1,0 +1,5 @@
+Fairly simple just run the program with 
+python3 BlockChain.py
+
+The terminal will prompt you with to input a hash, then a quote
+and will give you the nonce and new hash, then loop for the next block
